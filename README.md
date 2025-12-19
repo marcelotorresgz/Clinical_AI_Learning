@@ -17,6 +17,15 @@ Each folder corresponds to a learning phase and includes:
 - Executable code
 - A README explaining objectives, concepts, and limitations
 
+## Learning Roadmap (high-level)
+
+- [x] Python environment & fundamentals
+- [ ] Cohort-level logic & loops
+- [ ] Data analysis (Pandas, visualization)
+- [ ] Classical ML for clinical prediction
+- [ ] Deep learning foundations
+- [ ] Clinical AI prototyping & deployment
+
 ## Disclaimer
 All code is for educational purposes only.  
 Not intended for clinical use.

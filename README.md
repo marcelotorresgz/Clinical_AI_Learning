@@ -13,7 +13,7 @@ Background:
 - Healthcare-specific pitfalls (bias, leakage, validation) explicitly considered
 
 ## Structure
-Each folder corresponds to a learning phase or week and includes:
+Each folder corresponds to a learning phase and includes:
 - Executable code
 - A README explaining objectives, concepts, and limitations
 
